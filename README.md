@@ -107,5 +107,5 @@ Los datos extraídos contienen información demográfica, de servicios contratad
 
 **Magno Gabriel Huaromo Montañez**  
 Proyecto realizado como parte de un desafío de análisis de datos con enfoque en retención de clientes.  
-[LinkedIn](www.linkedin.com/in/magno-huaromo)
+[LinkedIn](http://www.linkedin.com/in/magno-huaromo)
 
